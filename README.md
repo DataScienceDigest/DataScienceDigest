@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shiv
 - 👀 I’m interested in Exploring New Technologies
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m an Artificial Intelligence engineer
+  i have also a good knowledge of financial markets and interested to creating strategies and building algo trading platforms
 - 💞️ I’m looking to collaborate on innovative projects in web development and Artificial Intelligenc . I have expertise in Django, JavaScript, Machine Learning , Deep Learning, AI Tools , Data Science and building interactive Projects for various Domains . If you're interested in teaming up or brainstorming ideas, feel free to reach out!"
 - 📫 How to reach me datasciencedigest.in@gmail.com
 - 😄 Pronouns: He/him
