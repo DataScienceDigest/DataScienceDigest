@@ -96,10 +96,9 @@ I'm actively looking to collaborate on innovative projects in:
 - 🌐 **Location:** Panipat, Haryana, India
 
 ---
+## 📊 Portfolio
 
-## 📊 Here is my portfolio
-
-![Portfolio](https://shivshankarkumar.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivshankarkumar.netlify.app/)
 
 
 ---
@@ -122,5 +121,3 @@ I'm actively looking to collaborate on innovative projects in:
 </div>
 
 ---
-
-**Note:** *Replace `YOUR_USERNAME` in the GitHub stats section with your actual GitHub username*
